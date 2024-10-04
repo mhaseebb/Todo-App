@@ -1,0 +1,38 @@
+.Container {
+    text-align: center;
+
+}
+
+.Heading {
+    text-align: center;
+
+}
+
+body {
+    background-color: #f8da69;
+    font-size: 20px;
+
+}
+
+button {
+    background-color: black;
+    font-style: normal;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    height: 25px;
+}
+
+#todo_item {
+    height: 25px;
+    margin: 5px;
+    width: 40%;
+    border-color: antiquewhite;
+    border-radius: 10px;
+}
+
+#list {
+    list-style-type: none;
+
+
+}
